@@ -1,0 +1,57 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Things to do",
+      "description": "TTT"
+    },
+    {
+      "id": 2,
+      "title": "Things not to do",
+      "description": "Reverse triiodothyronine"
+    },
+    {
+      "title": "Things to maybe do",
+      "description": "E",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "todosId": 1,
+      "content": "plupFocus",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "todosId": 1,
+      "content": "plupFocus plupFocus",
+      "status": 0
+    },
+    {
+      "id": 3,
+      "todosId": 1,
+      "content": "plupFocus plupFocus plupFocus",
+      "status": 2
+    },
+    {
+      "todosId": 1,
+      "status": 2,
+      "content": "jnjnjk",
+      "id": 4
+    },
+    {
+      "todosId": 1,
+      "status": 2,
+      "content": "jnj",
+      "id": 5
+    },
+    {
+      "todosId": 3,
+      "status": 1,
+      "content": "plupFocus plupFocus plupFocus plupFocus ",
+      "id": 6
+    }
+  ]
+}

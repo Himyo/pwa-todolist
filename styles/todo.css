@@ -1,0 +1,38 @@
+header {
+  text-align: center;
+}
+.row {
+  display: flex;
+}
+.row .title {
+  border: 1rem;
+  box-shadow: 0px 1px 2px 0px hsl(0, 0%, 0%);
+}
+.row .status {
+  margin-left: 2rem;
+}
+.column {
+ flex: 33%; 
+}
+
+.todo-item article.task {
+  margin-bottom: 5px;
+  background-color: #a8d8e4;
+}
+form {
+  position: absolute;
+  display: grid;
+  bottom: 10px;
+}
+input {
+  width: 180px;
+  height: 48px;
+}
+select {
+  width: 180px;
+  height: 48px;
+}
+button {
+  width: 185px;
+  height: 48px; 
+}
